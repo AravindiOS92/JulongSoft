@@ -89,12 +89,12 @@
                   symbolName = "JulongSoftDemo.PrdouctViewController.tableView(_: __C.UITableView, didSelectRowAt: Foundation.IndexPath) -&gt; ()"
                   moduleName = "JulongSoftDemo"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/aravinddurgam/Desktop/calender/JulongSoftDemo/JulongSoftDemo/PrdouctViewController.swift"
-                  timestampString = "569740831.637225"
+                  urlString = "file:///Users/aravinddurgam/Desktop/GitJulong/JulongSoft/JulongSoftDemo/JulongSoftDemo/PrdouctViewController.swift"
+                  timestampString = "569759556.297428"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "59"
-                  endingLineNumber = "59"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
                   offsetFromSymbolStart = "133">
                </Location>
                <Location
@@ -104,12 +104,12 @@
                   symbolName = "JulongSoftDemo.PrdouctViewController.tableView(_: __C.UITableView, didSelectRowAt: Foundation.IndexPath) -&gt; ()"
                   moduleName = "JulongSoftDemo"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/aravinddurgam/Desktop/calender/JulongSoftDemo/JulongSoftDemo/PrdouctViewController.swift"
-                  timestampString = "569740831.6403739"
+                  urlString = "file:///Users/aravinddurgam/Desktop/GitJulong/JulongSoft/JulongSoftDemo/JulongSoftDemo/PrdouctViewController.swift"
+                  timestampString = "569759556.299865"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "59"
-                  endingLineNumber = "59"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
                   offsetFromSymbolStart = "852">
                </Location>
             </Locations>
@@ -144,6 +144,22 @@
             startingLineNumber = "33"
             endingLineNumber = "33"
             landmarkName = "configureCellWith1(data:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JulongSoftDemo/ViewController.swift"
+            timestampString = "569759556.24183"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "viewDidLoad()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
